@@ -6,4 +6,6 @@ The report was written using LaTeX, and the code is included inside lstlisting b
 That's why several .sql files are provided, each named after the corresponding question from Exercise 2, to make it easier to use the code directly.
 
 # Dump file
-The dump file would be on moodle, as it is too big for github.
+The dump file is too big for moodle and Github, you can download the file using the following link to my personal proton drive:
+
+https://drive.proton.me/urls/2J40YEPYZG#rmKd4ovboj9c
